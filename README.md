@@ -1,0 +1,2 @@
+# Human-Resource-Analytics-using-R
+Companies face the problem that their human resources on whom the company have invested time and money to train them, leave the company voluntarily. It is important for the management to know the variables responsible for employees quitting jobs and also have a prediction that which employees will be quitting their jobs in future. The goal of this project is to design different models for predicting if an employee will stay or leave the company within the next year and analyze the accuracy of the models.
